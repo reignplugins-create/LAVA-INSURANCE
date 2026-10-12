@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "lavainsurance:item/lava_insurance_charm"
+  }
+}

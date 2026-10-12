@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:gold_ingot" },
+    { "item": "minecraft:magma_cream" },
+    { "item": "minecraft:obsidian" }
+  ],
+  "result": { "item": "lavainsurance:lava_insurance_charm" }
+}

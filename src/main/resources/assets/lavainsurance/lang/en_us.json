@@ -1,0 +1,8 @@
+{
+  "item.lavainsurance.lava_insurance_charm": "Lava Insurance Charm",
+  "item.lavainsurance.lava_insurance_charm.tooltip1": "Keep it in your inventory.",
+  "item.lavainsurance.lava_insurance_charm.tooltip2": "Saves you once from dying in lava or fire.",
+  "item.lavainsurance.lava_insurance_charm.tooltip3": "You can only carry one at a time.",
+  "message.lavainsurance.saved": "Your Lava Insurance Charm saved you!",
+  "message.lavainsurance.limit": "You can only carry one Lava Insurance Charm."
+}
